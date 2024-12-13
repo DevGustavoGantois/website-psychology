@@ -67,8 +67,12 @@ export function HomeHero() {
           </div>
         </div>
       </div>
-      <div>
-  
+      <div className="bg-white -mt-8 p-12">
+          <div className="flex flex-col justify-center items-center gap-8 lg:flex-row lg:justify-around lg:border-l">
+              <p className="font-primary linear-text font-bold text-3xl lg:text-4xl" data-aos="flip-up">+10 Anos de Experiência</p>
+              <p className="font-primary linear-text font-bold text-3xl lg:text-4xl" data-aos="flip-up" data-aos-delay="200">Psicologia Clínica</p>
+              <p className="font-primary linear-text font-bold text-3xl lg:text-4xl" data-aos="flip-up" data-aos-delay="300">+50 Avaliações Positivas</p>
+          </div>
       </div>
     </section>
   );

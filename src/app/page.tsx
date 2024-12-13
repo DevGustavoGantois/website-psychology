@@ -29,6 +29,7 @@ export default function Page() {
       <HomeLocation />
       <HomeContact />
       <Footer />
+      <div className="h-[300px]"></div>
     </>
   );
 }
