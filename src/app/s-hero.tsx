@@ -8,7 +8,7 @@ import Link from "next/link";
 export function HomeHero() {
   return (
     <section>
-      <div className="max-w-[1550px] mx-auto p-8 lg:p-6 mt-40 lg:mt-0">
+      <div className="max-w-[1550px] mx-auto p-8 lg:p-6 mt-20 lg:mt-0">
         <div className="flex flex-col items-center lg:flex-row justify-center gap-32 lg:justify-between">
           <div>
             {HomeHeroData.map((item, index) => {
