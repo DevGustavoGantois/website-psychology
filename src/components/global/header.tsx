@@ -8,7 +8,7 @@ export function Header() {
                 <div className="hidden md:hidden xl:flex">
                     <Navbar />
                 </div>
-                <div className="md:flex lg:hidden">
+                <div className="md:flex xl:hidden">
                     <NavbarMobile />
                 </div>
             </div>
