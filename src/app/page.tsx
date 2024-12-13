@@ -1,5 +1,6 @@
 'use client';
 import AOS from "aos";
+import 'aos/dist/aos.css';
 import { useEffect } from "react";
 import { HomeHero } from "./s-hero";
 import { HomeAbout } from "./s-about";

@@ -6,6 +6,23 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+::-webkit-scrollbar {
+  width: 8px;
+  background-color: #f5f5f5;
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #0094C7;
+  border-radius: 999px;
+  cursor: pointer;
+}
+.linear-text {
+  background: linear-gradient(to right, #0094C7, #43ACA3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
