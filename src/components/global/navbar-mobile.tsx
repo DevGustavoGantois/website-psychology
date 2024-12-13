@@ -13,7 +13,7 @@ export function NavbarMobile() {
                 </SheetTrigger>
                 <SheetContent className="flex flex-col">
                 <SheetHeader>
-                    <SheetTitle className="flex justify-center mt-20">
+                    <SheetTitle className="flex justify-center mt-11">
                         <Image src="/Logo.svg" width={150} height={200} alt="" />
                     </SheetTitle>
                 </SheetHeader>
