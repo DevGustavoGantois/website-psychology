@@ -77,6 +77,9 @@ export default {
           },
         },
       },
+      screens: {
+        md: '1186px'
+      },
 	  backgroundImage: {
 		
 	  },
