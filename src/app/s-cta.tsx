@@ -11,15 +11,14 @@ export function CTASection() {
         <div className="flex flex-col items-center lg:items-start text-center lg:text-left gap-6">
           {HomeCTAData.map((item, index) => (
             <div key={index} className="flex flex-col gap-4">
-              <h1 className="text-white font-light text-3xl lg:text-5xl mb-4">
+              <h1 className="text-white font-light text-3xl lg:text-5xl mb-4" data-aos="fade-up">
                 Me siga nas redes sociais e vamos <br /> bater esse papo!
               </h1>
-              <p className="text-white text-base lg:text-xl max-w-[600px]">
+              <p className="text-white text-base lg:text-xl max-w-[600px]" data-aos="fade-up" data-aos-delay="200">
                 {item.description}
               </p>
             </div>
           ))}
-          {/* Botões */}
           <div className="mt-6 flex flex-col lg:flex-row gap-4">
             <Button>
               <Link href="" target="_blank" className="flex items-center gap-4">

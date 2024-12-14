@@ -48,7 +48,7 @@ export function HomeHero() {
                         </div>
                       </Button>
                     </Link>
-                    <Link href="#Servicos" data-aos="zoom-in">
+                    <Link href="#Services" data-aos="zoom-in">
                       <Button variant="link">Conheça meus Serviços</Button>
                     </Link>
                   </div>

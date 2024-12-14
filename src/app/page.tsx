@@ -11,6 +11,7 @@ import { HomeLocation } from "./s-location";
 import { HomeContact } from "./s-contact";
 import { Footer } from "@/components/global/footer";
 import { CTASection } from "./s-cta";
+import { HomeServices } from "./s-services";
 
 
 export default function Page() {
@@ -25,6 +26,7 @@ export default function Page() {
       <HomeHero />
       <HomeHistory />
       <HomeAbout />
+      <HomeServices />
       <HomeTestimonials />
       <CTASection />
       <HomeFAQ />

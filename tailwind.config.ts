@@ -81,7 +81,10 @@ export default {
         md: '1186px'
       },
 	  backgroundImage: {
-        bgCta:'url(/bgCTA.png)'
+        bgCta:'url(/bgCTA.png)',
+        bgChild: 'url(/ImgChildren.svg)',
+        bgAd: 'url(/ImgAd.svg)',
+        bgAdult: 'url(/ImgAdult.svg)',
 	    },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",

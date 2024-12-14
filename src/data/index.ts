@@ -28,6 +28,41 @@ export const HomeAboutData = [
 export const HomeServicesData = [
     {
         title: "Meus Serviços",
+        cardServices: [
+            {
+                title: "Atendimento para Crianças",
+                subtitle: "Benefícios",
+                topics: [
+                    {topic: "Desenvolvimento emocional: Ajuda a identificar e expressar sentimentos de forma saudável."},
+                    {topic: "Melhora comportamental: Trabalha questões como agressividade, timidez ou desobediência."},
+                    {topic: "Aprimoramento das relações: Favorece a interação com pais, colegas e professores."},
+                    {topic: "Estimulação da criatividade: Utiliza jogos, desenhos e brincadeiras para explorar emoções e pensamentos."},
+                    {topic: "Promoção da autoestima: Fortalece a confiança e a segurança da criança em si mesma."}
+                ]
+            },
+            {
+                title: "Atendimento para Adolescentes",
+                subtitle: "Benefícios",
+                topics: [
+                    {topic: "Promoção da autoestima: Fortalece a confiança e a segurança da criança em si mesma."},
+                    {topic: "Gerenciamento de conflitos: Trabalha problemas familiares, escolares ou sociais."},
+                    {topic: "Construção de identidade: Ajuda na compreensão de quem são e o que desejam para o futuro."},
+                    {topic: "Apoio emocional: Oferece suporte em momentos de insegurança, ansiedade ou crises existenciais."},
+                    {topic: "Promoção da responsabilidade: Estimula a tomada de decisões conscientes e maduras."}
+                ]
+            },
+            {
+                title: "Atendimento para Adultos",
+                subtitle: "Benefícios",
+                topics: [
+                    {topic: "Reconhecimento de padrões: Identifica comportamentos repetitivos que impactam a vida pessoal ou profissional."},
+                    {topic: "Alívio de conflitos internos: Trabalha questões como ansiedade, culpa ou traumas."},
+                    {topic: "Melhoria nos relacionamentos: Favorece uma comunicação mais clara e empática."},
+                    {topic: "Redução do estresse: Ensina estratégias para lidar com situações desafiadoras."},
+                    {topic: "Crescimento pessoal: Estimula a busca por sentido e equilíbrio na vida cotidiana."},
+                ]
+            }
+        ]
     }
 ]
 
