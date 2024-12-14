@@ -63,6 +63,7 @@ export function HomeHero() {
               height={300}
               alt=""
               quality={100}
+              priority
             />
           </div>
         </div>
