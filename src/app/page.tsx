@@ -10,7 +10,7 @@ import { HomeFAQ } from "./s-faq";
 import { HomeLocation } from "./s-location";
 import { HomeContact } from "./s-contact";
 import { Footer } from "@/components/global/footer";
-import { CTASection } from "./s-cta-section";
+import { CTASection } from "./s-cta";
 
 
 export default function Page() {
