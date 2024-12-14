@@ -19,7 +19,7 @@ export function HomeHistory() {
             <div className="flex md:hidden">
               <h1 className="text-center linear-text text-3xl">{item.title}</h1>
             </div>
-            <div className="grid gap-6 lg:gap-10 mt-8 md:grid-cols-2 lg:grid-cols-3">
+            <div className="grid gap-6 lg:gap-10 mt-8 grid-cols-1 sm:grid-cols-2 lg:grid-cols-2">
               {item.cards.map((card, cardIndex) => (
                 <div
                   key={cardIndex}
