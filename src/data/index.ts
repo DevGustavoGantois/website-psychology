@@ -31,6 +31,12 @@ export const HomeServicesData = [
     }
 ]
 
+export const HomeCTAData = [
+    {
+        description: 'Siga-me para conteúdos sobre bem-estar, psicologia e desenvolvimento pessoal. Vamos juntos nessa jornada de autoconhecimento e transformação!',
+    }
+]
+
 export const HomeFaqData = [
     {
         pretitle: "Perguntas Frequentes",

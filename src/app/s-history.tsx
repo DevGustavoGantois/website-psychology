@@ -4,7 +4,7 @@ import Image from "next/image";
 
 export function HomeHistory() {
   return (
-    <section className="max-w-[1440px] mx-auto p-6 lg:p-0">
+    <section className="max-w-[1440px] mx-auto p-6 lg:p-0" id="History">
       <div className="mt-10 lg:mt-[100px]">
         <div className="hidden md:flex justify-center" data-aos="fade-up">
           <Image

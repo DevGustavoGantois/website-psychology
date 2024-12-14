@@ -81,8 +81,8 @@ export default {
         md: '1186px'
       },
 	  backgroundImage: {
-		
-	  },
+        bgCta:'url(/bgCTA.png)'
+	    },
       animation: {
         "accordion-down": "accordion-down 0.2s ease-out",
         "accordion-up": "accordion-up 0.2s ease-out",

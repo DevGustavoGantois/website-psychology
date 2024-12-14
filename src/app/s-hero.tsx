@@ -40,7 +40,7 @@ export function HomeHero() {
                     </p>
                   </div>
                   <div className="flex flex-col justify-center items-center lg:justify-start lg:flex-row gap-4 mt-6">
-                    <Link href="#About" data-aos="zoom-in">
+                    <Link href="#History" data-aos="zoom-in">
                       <Button>
                         Saiba mais
                         <div className="bg-white p-1 rounded-full text-[#0094C7]">

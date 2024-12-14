@@ -10,6 +10,7 @@ import { HomeFAQ } from "./s-faq";
 import { HomeLocation } from "./s-location";
 import { HomeContact } from "./s-contact";
 import { Footer } from "@/components/global/footer";
+import { CTASection } from "./s-cta-section";
 
 
 export default function Page() {
@@ -25,6 +26,7 @@ export default function Page() {
       <HomeHistory />
       <HomeAbout />
       <HomeTestimonials />
+      <CTASection />
       <HomeFAQ />
       <HomeLocation />
       <HomeContact />
