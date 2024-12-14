@@ -9,8 +9,6 @@ const roboto = Roboto({
   subsets: ["latin"],
 });
 
-
-
 export const metadata: Metadata = {
   title: "Psicologia Clínica Mônica Aran",
   description: "Consultório de Psicologia Clínica Mônica Aran",
