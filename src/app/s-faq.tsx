@@ -8,8 +8,8 @@ export function HomeFAQ() {
           return (
             <div key={index}>
               <div className="flex flex-col gap-2 justify-center items-stretch">
-                <p className="text-xl font-extralight text-[#262626] text-center">{item.pretitle}</p>
-                <h1 className="text-4xl lg:text-5xl linear-text text-center">{item.title}</h1>
+                <p className="text-xl font-extralight text-[#262626] text-center" data-aos="fade-left">{item.pretitle}</p>
+                <h1 className="text-4xl lg:text-5xl linear-text text-center" data-aos="fade-right">{item.title}</h1>
               </div>
               <Accordion type="single" collapsible className="mt-6">
                 {item.questionsAndAnswer.map((qa, idx) => {
