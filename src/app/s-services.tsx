@@ -12,7 +12,7 @@ export function HomeServices() {
               <h1 className="linear-text text-center text-4xl lg:text-5xl mb-10" data-aos="fade-down">
                 {item.title}
               </h1>
-              <div className="flex flex-col lg:flex-row gap-10">
+              <div className="flex flex-col xl:flex-row gap-10">
                 {item.cardServices.map((card, index) => {
                   const backgroundClass =
                     index === 0
@@ -24,7 +24,8 @@ export function HomeServices() {
                   return (
                     <div
                       key={index}
-                      className={`relative p-6 lg:p-12 rounded-2xl flex flex-col gap-4 lg:gap-10 bg-cover w-full  bg-center ${backgroundClass}`}
+                      className={`relative p-6 lg:p-10 rounded-2xl flex flex-col gap-4 lg:gap-10 bg-cover w-full  bg-center ${backgroundClass}`}
+                      data-aos="fade-up"
                     >
                       <div className="absolute inset-0 bg-[#0094C7]/10 backdrop-blur-sm rounded-2xl"></div>
                       <div className="relative flex flex-col items-center p-4 rounded-lg text-white">

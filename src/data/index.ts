@@ -106,6 +106,14 @@ export const HomeFaqData = [
     } 
 ]
 
+export const HomeLocationData = [
+    {
+        title: "Localização",
+        subtitle: "Rua Alceu Amoroso Lima, 172 - Edf. Salvador Office e Pool - Caminho das Árvores - Salvador/BA",
+        cta: "Agendar consulta"
+    }
+]
+
 export const HomeContactData = [
     {
         title: "Vamos cuidar da sua mente juntos?",
