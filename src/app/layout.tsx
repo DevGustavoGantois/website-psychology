@@ -12,8 +12,8 @@ const roboto = Roboto({
 
 
 export const metadata: Metadata = {
-  title: "Psicóloga Monica Aran",
-  description: "Site de psicologia clínica Monica Aran",
+  title: "Psicologia Clínica Mônica Aran",
+  description: "Consultório de Psicologia Clínica Mônica Aran",
 };
 
 export default function RootLayout({

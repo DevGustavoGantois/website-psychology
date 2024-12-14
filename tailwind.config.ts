@@ -81,7 +81,7 @@ export default {
         md: '1186px'
       },
 	  backgroundImage: {
-        bgCta:'url(/bgCTA.png)',
+        bgCta:'url(/bgCTA.svg)',
         bgChild: 'url(/ImgChildren.svg)',
         bgAd: 'url(/ImgAd.svg)',
         bgAdult: 'url(/ImgAdult.svg)',
