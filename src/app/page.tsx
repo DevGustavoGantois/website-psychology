@@ -4,7 +4,7 @@ import 'aos/dist/aos.css';
 import { useEffect } from "react";
 import { HomeHero } from "./s-hero";
 import { HomeAbout } from "./s-about";
-import { HomeServices } from "./s-services";
+import { HomeHistory } from "./s-history";
 import { HomeTestimonials } from "./s-testimonials";
 import { HomeFAQ } from "./s-faq";
 import { HomeLocation } from "./s-location";
@@ -22,8 +22,8 @@ export default function Page() {
   return (
     <>
       <HomeHero />
+      <HomeHistory />
       <HomeAbout />
-      <HomeServices />
       <HomeTestimonials />
       <HomeFAQ />
       <HomeLocation />

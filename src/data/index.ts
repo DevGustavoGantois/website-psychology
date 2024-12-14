@@ -6,6 +6,18 @@ export const HomeHeroData = [
     },
 ]
 
+export const HomeHistoryData = [
+    {
+        title: "Áreas onde atuo mudando a vida dos meus pacientes",
+        cards: [
+            {title: "A Jornada do Autoconhecimento", description: "Acompanhando você na jornada de autoconhecimento e crescimento pessoal. Psicóloga Clínica com formação na Abordagem Gestalt-terapia.CRP-03/25326."},
+            {title: "Cuidado para Todas as Idades", description: "Atuo com crianças, adolescentes e adultos de forma acolhedora e com um olhar único para cada paciente, buscando a promoção da saúde emocional."},
+            {title: "Conforto e Esperança em Momentos Desafiadores", description: "Ao atuar no GACC-BA, tenho a oportunidade de fazer a diferença na vida de muitas pessoas, proporcionando momentos de conforto e esperança em um momento tão desafiador."},
+            {title: "Conhecimento e Pesquisa para Atendimento Personalizado", description: 'coautoria do livro "Adolescentes & Adolescências" me permite oferecer um atendimento ainda mais personalizado e baseado nas mais recentes pesquisas sobre o desenvolvimento adolescente.'}
+        ]
+    }
+]
+
 export const HomeAboutData = [
     {
         title: "Sobre mim",

@@ -11,7 +11,7 @@ export function HomeAbout() {
             <div key={index}>
                 <div className="flex flex-col lg:flex-row justify-center lg:justify-around">
         <figure>
-          <Image src="/ImgAbout.svg" width={600} height={600} quality={100} alt="" data-aos="flip-left" />
+          <Image src="/ImgAbout.svg" width={600} height={600} quality={100} alt="" data-aos="flip-up" />
         </figure>
         <div>
           <h1 className="text-[#262626] text-center lg:text-start mt-10 lg:mt-0 text-4xl lg:text-5xl mb-4 font-primary" data-aos="fade-down">
