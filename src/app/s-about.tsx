@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export function HomeAbout() {
   return (
-    <section className="max-w-[1550px] mx-auto p-6 lg:p-0 mt-10 lg:mt-20">
+    <section className="max-w-[1550px] mx-auto p-6 lg:p-0 mt-10 lg:mt-20" id="About">
       {HomeAboutData.map((item, index) => {
         return (
             <div key={index}>

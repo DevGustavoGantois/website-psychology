@@ -26,27 +26,27 @@ export const HomeFaqData = [
         questionsAndAnswer: [
             {
                 question: "Quais são os serviços que você oferece?",
-                answer: "",
+                answer: "Psicoterapia para crianças, adolescentes e adultos. Orientação parental. Visita escolar.",
             },
             {
                 question: "Como funciona sua Abordagem com seus pacientes?",
-                answer: "",
+                answer: "A Gestalt-terapia vê a escuta para muito além do ouvir. A escuta é a base para o acolhimento, onde k paciente terá espaço seguro para que se sinta confirmado e aceito. Isso envolve estar presente no momento, sem julgamentos ou pré-conceitos, trazendo uma conexão terapêutica empática. O meu objetivo é ajudá-lo (a) a ampliar a sua percepção a respeito de si mesmo (a) e de suas experiências, facilitando assim o autoconhecimento e uma vida mais plena e significativa.",
             },
             {
                 question: "Você atende presencialmente?",
-                answer: "",
+                answer: "Sim, atendo na região do Caminho das Árvores, próximo ao Salvador Shopping.",
             },
             {
                 question: "Você atende pelo plano de saúde?",
-                answer: "",
+                answer: "Não sou credenciada com planos de saúde, porém alguns deles aceitam reembolso. Forneço toda a documentação necessária para o seu pedido de reembolso.",
             },
             {
                 question: "Quanto tempo geralmente dura cada sessão?",
-                answer: "",
+                answer: "As sessões são semanais, geralmente uma vez por semana e duram 50 minutos. ",
             },
             {
                 question: "Quais são as formas de pagamento?",
-                answer: "",
+                answer: "Pagamento antecipado via transferência bancária, pix ou cartão de crédito.",
             }
 
         ]
