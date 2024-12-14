@@ -70,7 +70,7 @@ export function NavbarMobile() {
     <span className="absolute left-0 bottom-0 w-0 h-[2px] bg-[#0094c7] transition-all duration-500 group-hover:w-full"></span>
   </Link>
             </span>
-            <Link href="" target="_blank" className="mt-10">
+            <Link href="https://wa.me/+557196329047?text=Ol%C3%A1%20M%C3%B4nica%2C%20queria%20agendar%20uma%20consulta%2C%20qual%20a%20sua%20disponibilidade%20de%20hor%C3%A1rios%20e%20dias%3F" target="_blank" className="mt-10">
             <Button className="p-5" variant="secondary">Agende a sua consulta</Button>
             </Link>
             </span>

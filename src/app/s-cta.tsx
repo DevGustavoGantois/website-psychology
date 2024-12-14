@@ -21,17 +21,17 @@ export function CTASection() {
           ))}
           <div className="mt-6 flex flex-col lg:flex-row gap-4">
             <Button>
-              <Link href="" target="_blank" className="flex items-center gap-4">
+              <Link href="https://www.instagram.com/psi.monicaaran/?igsh=MWRnZjFoeHBwNnYxOQ%3D%3D" target="_blank" className="flex items-center gap-4">
                 Instagram <FaInstagram size={20} />
               </Link>
             </Button>
             <Button>
-              <Link href="" target="_blank" className="flex items-center gap-4">
+              <Link href="https://wa.me/+557196329047?text=Ol%C3%A1%20M%C3%B4nica%2C%20queria%20agendar%20uma%20consulta%2C%20qual%20a%20sua%20disponibilidade%20de%20hor%C3%A1rios%20e%20dias%3F" target="_blank" className="flex items-center gap-4">
                 Whatsapp <FaWhatsapp size={20} />
               </Link>
             </Button>
             <Button>
-              <Link href="" target="_blank" className="flex items-center gap-4">
+              <Link href="https://t.me/Monica_Aran" target="_blank" className="flex items-center gap-4">
                 Telegram <FaTelegram size={20} />
               </Link>
             </Button>

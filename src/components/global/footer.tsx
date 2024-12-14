@@ -31,12 +31,18 @@ export function Footer() {
         <div className="text-center lg:text-left">
           <h1 className="text-white text-3xl mb-5">Social</h1>
           <div className="grid grid-cols-2 gap-3 text-white mx-auto lg:mx-0">
-            <Link className="hover:scale-[1.1] transition-all duration-700" href="" target="_blank"><FaInstagram size={30} /></Link>
-            <Link className="hover:scale-[1.1] transition-all duration-700" href="" target="_blank"><FaWhatsapp size={30} /></Link>
-            <Link className="hover:scale-[1.1] transition-all duration-700" href="" target="_blank"><FaTelegram size={30} /></Link>
-            <Link className="hover:scale-[1.1] transition-all duration-700" href="" target="_blank"><FaEnvelope size={30} /></Link>
+            <Link className="hover:scale-[1.1] transition-all duration-700" href="https://www.instagram.com/psi.monicaaran/?igsh=MWRnZjFoeHBwNnYxOQ%3D%3D" target="_blank"><FaInstagram size={30} /></Link>
+            <Link className="hover:scale-[1.1] transition-all duration-700" href="https://wa.me/+557196329047?text=Ol%C3%A1%20M%C3%B4nica%2C%20queria%20agendar%20uma%20consulta%2C%20qual%20a%20sua%20disponibilidade%20de%20hor%C3%A1rios%20e%20dias%3F" target="_blank"><FaWhatsapp size={30} /></Link>
+            <Link className="hover:scale-[1.1] transition-all duration-700" href="https://t.me/Monica_Aran" target="_blank"><FaTelegram size={30} /></Link>
+            <Link className="hover:scale-[1.1] transition-all duration-700" href="mailto:psi.monicaaran@gmail.com" target="_blank"><FaEnvelope size={30} /></Link>
           </div>
         </div>
+      </div>
+      <div className="text-center mb-4 mt-10 text-white font-light">
+        <p>@copryght. Todos os Direitos Reservados. Monica Aran 2024</p>
+      </div>
+      <div className="text-center text-white/70 font-light">
+        <Link href="https://www.instagram.com/devgustavogantois_/?hl=pt-br" target="_blank">Desenvolvido por @devgustavogantois_</Link>
       </div>
     </footer>
   );

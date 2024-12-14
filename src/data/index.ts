@@ -66,6 +66,37 @@ export const HomeServicesData = [
     }
 ]
 
+export const HomeTestimonialsData = [
+    {
+        name: "Nadson Maia",
+        testimonial: "Estou sendo acompanhado pela Dra Monica há pouco mais de 1 ano e estou muito feliz em perceber que o tratamento com ela realmente fez grande diferença na minha vida. Destaco a empatia e acolhimento proporcionada a cada encontro, assim como o profissionalismo, naturalidade e comunicação clara, o que nos faz sentir-se confortável e seguro durante as sessões! Gosto da maneira participativa com que ela conduz a conversa.Super indico o trabalho da Dra Monica!Gratidão!!"
+    },
+    {
+        name: "Daniela Jamur",
+        testimonial: "A Psicóloga Mônica cuidou dos meus dois filhos e o processo de evolução e de auto conhecimento foi muito grande neles. Eu como mãe percebi o quanto fazer as terapias com a Mônica foi bom pra eles e para a nossa família. E eles também sentiram e relataram o quanto foi positivo. Agradeço e indico a psicóloga Mônica."
+    },
+    {
+        name: "Moisés Oliveira",
+        testimonial: "Confesso que quando cheguei para minha primeira consulta, fui com bastante medo, dúvidas, vergonha, mas já na segunda semana eu me sentir como se fosse um amigo bem próximo de mim falando, todo medo foi desconstruindo, toda dúvida foi tirada , e o melhor eu aprendi a superar meus monstros internos, só tenho agradecer a Deus e segunda a essa excelente profissional, Dr (a) Mônica Aran. Melhores experiências que eu já vivi em toda minha vida, a psicologia me guiou em um caminho no qual por muito tempo eu procurava."
+    },
+    {
+        name: "Maria Eduarda Ribeiro",
+        testimonial: "Excelente profissional! Muito competente, comprometida e empática. Realiza um trabalho lindo de autoconhecimento"
+    },
+    {
+        name: "Eveline Alves",
+        testimonial: "Tem sido incrível esse tempo que tenho passado com a Mônica teve uma grande diferença em minha vida. Agradeço muito a ela por todo o trabalho que temos feito juntas, pois tem me ajudado muito."
+    },
+    {
+        name: "Vera Dias de Matos",
+        testimonial: "Passei por um momento bem ruim, Mônica Aran foi uma luz na escuridao, ela é um anjo. Obrigada Mônica por fazer parte da minha história de vida."
+    },
+    {
+        name: "Dandara Lima Rocha Oliveira",
+        testimonial: "Mônica é uma excelente profissional, sua gentileza, seu acolhimento e seu carinho ao iniciar todas as sessões me trazem um sentimento de calmaria, como um abraço de sol no meio da escuridão! Você é luz Mônica, muito obrigada por iluminar, não somente eu, mas tantas pessoas nesse mundo! Um lindo trabalho, recomendo de olhos fechados, ou melhor, de olhos brilhantes ! 🤩"
+    },
+]
+
 export const HomeCTAData = [
     {
         description: 'Siga-me para conteúdos sobre bem-estar, psicologia e desenvolvimento pessoal. Vamos juntos nessa jornada de autoconhecimento e transformação!',
