@@ -148,6 +148,6 @@ export const HomeLocationData = [
 export const HomeContactData = [
     {
         title: "Vamos juntos cuidar da sua saúde de forma integral?",
-        description: "Agende sua sessão e descubra como viver com presença! Te convido a uma jornada rica e profunda de autoconhecimento"
+        description: "Agende sua sessão e descubra como viver com presença! Te convido a uma jornada rica e profunda de autoconhecimento."
     }
 ]
