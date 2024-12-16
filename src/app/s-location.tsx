@@ -58,7 +58,7 @@ export function HomeLocation() {
               <div className="relative group w-full lg:w-auto overflow-hidden">
                 <Image
                   src="/Location3.svg"
-                  width={500}
+                  width={497}
                   height={200}
                   quality={100}
                   alt="Localização 3"
@@ -78,7 +78,7 @@ export function HomeLocation() {
               <div className="relative group w-full lg:w-auto overflow-hidden">
                 <Image
                   src="/Location4.svg"
-                  width={477}
+                  width={479}
                   height={200}
                   quality={100}
                   alt="Localização 4"

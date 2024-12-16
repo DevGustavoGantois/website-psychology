@@ -33,6 +33,7 @@ export function HomeHistory() {
                       <p className="text-black text-base lg:text-xl max-w-[500px] font-primary">
                         {card.description}
                       </p>
+                      <p className="text-black text-base lg:text-xl max-w-[500px] font-primary mt-3">{card.extra}</p>
                     </div>
                     <div>
                       <div className="p-2 border border-[#0094c7] rounded-full mt-4 lg:mt-0">

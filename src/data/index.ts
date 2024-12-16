@@ -1,7 +1,7 @@
 export const HomeHeroData = [
     {
         pretitle: "Psicóloga Mônica Aran",
-        title: "Dê o primeiro passo para o seu bem-estar emocional. Agende sua consulta agora!",
+        title: "Dê o primeiro passo para o seu bem-estar emocional. Agende sua sessão agora!",
         description: "Se está buscando melhorar sua saúde mental, lidar com desafios emocionais ou encontrar mais clareza em suas escolhas, eu estou aqui para ajudar. Vamos juntos trabalhar o seu autoconhecimento e promover mudanças positivas em sua vida. Agende sua consulta agora e dê o primeiro passo para uma jornada de transformação e bem-estar!",
     },
 ]
@@ -10,10 +10,10 @@ export const HomeHistoryData = [
     {
         title: "Áreas onde atuo mudando a vida dos meus pacientes",
         cards: [
-            {title: "A Jornada do Autoconhecimento", description: "Acompanhando você na jornada de autoconhecimento e crescimento pessoal. Psicóloga Clínica com formação na Abordagem Gestalt-terapia.CRP-03/25326."},
-            {title: "Cuidado para Todas as Idades", description: "Atuo com crianças, adolescentes e adultos de forma acolhedora e com um olhar único para cada paciente, buscando a promoção da saúde emocional."},
-            {title: "Conforto e Esperança em Momentos Desafiadores", description: "Ao atuar no GACC-BA, tenho a oportunidade de fazer a diferença na vida de muitas pessoas, proporcionando momentos de conforto e esperança em um momento tão desafiador."},
-            {title: "Conhecimento e Pesquisa para Atendimento Personalizado", description: 'coautoria do livro "Adolescentes & Adolescências" me permite oferecer um atendimento ainda mais personalizado e baseado nas mais recentes pesquisas sobre o desenvolvimento adolescente.'}
+            {title: "A Jornada do Autoconhecimento", description: "Acompanhando você na jornada de autoconhecimento e crescimento pessoal.", extra:"Psicóloga Clínica com formação na Abordagem Gestalt-terapia.CRP-03/25326"},
+            {title: "Cuidado para Todas as Idades", description: "Atuo com crianças, adolescentes e adultos de forma acolhedora e com um olhar único para cada paciente, buscando a promoção da saúde emocional e integral."},
+            {title: "Conforto e Esperança em Momentos Desafiadores", description: "Ao atuar no GACC-BA (Grupo de Apoio à Criança com Câncer - Bahia), tenho a oportunidade de fazer a diferença na vida de muitas pessoas, proporcionando momentos de conforto e esperança em um momento tão desafiador."},
+            {title: "Conhecimento e Pesquisa para Atendimento Personalizado", description: 'Coautoria do livro "Adolescentes & Adolescências" me permite oferecer um atendimento ainda mais personalizado e baseado nas mais recentes pesquisas sobre o desenvolvimento dos adolescentes.'}
         ]
     }
 ]
@@ -44,7 +44,7 @@ export const HomeServicesData = [
                 title: "Atendimento para Adolescentes",
                 subtitle: "Benefícios",
                 topics: [
-                    {topic: "Promoção da autoestima: Fortalece a confiança e a segurança da criança em si mesma."},
+                    {topic: "Promoção da autoestima: Fortalece a confiança e a segurança dos jovens em si mesmos."},
                     {topic: "Gerenciamento de conflitos: Trabalha problemas familiares, escolares ou sociais."},
                     {topic: "Construção de identidade: Ajuda na compreensão de quem são e o que desejam para o futuro."},
                     {topic: "Apoio emocional: Oferece suporte em momentos de insegurança, ansiedade ou crises existenciais."},
@@ -114,7 +114,7 @@ export const HomeFaqData = [
             },
             {
                 question: "Como funciona sua Abordagem com seus pacientes?",
-                answer: "A Gestalt-terapia vê a escuta para muito além do ouvir. A escuta é a base para o acolhimento, onde k paciente terá espaço seguro para que se sinta confirmado e aceito. Isso envolve estar presente no momento, sem julgamentos ou pré-conceitos, trazendo uma conexão terapêutica empática. O meu objetivo é ajudá-lo (a) a ampliar a sua percepção a respeito de si mesmo (a) e de suas experiências, facilitando assim o autoconhecimento e uma vida mais plena e significativa.",
+                answer: "A Gestalt-terapia vê a escuta para muito além do ouvir. A escuta é a base para o acolhimento, onde cada paciente terá espaço seguro para que se sinta confirmado e aceito. Isso envolve estar presente no momento, sem julgamentos ou pré-conceitos, trazendo uma conexão terapêutica empática. O meu objetivo é ajudá-lo (a) a ampliar a sua percepção a respeito de si mesmo (a) e de suas experiências, facilitando assim o autoconhecimento e uma vida mais plena e significativa.",
             },
             {
                 question: "Você atende presencialmente?",
@@ -147,7 +147,7 @@ export const HomeLocationData = [
 
 export const HomeContactData = [
     {
-        title: "Vamos cuidar da sua mente juntos?",
-        description: "Agende uma conversa e descubra como a psicologia pode transformar sua vida. Entre em contato agora e dê o primeiro passo para o seu bem-estar!"
+        title: "Vamos juntos cuidar da sua saúde de forma integral?",
+        description: "Agende sua sessão e descubra como viver com presença! Te convido a uma jornada rica e profunda de autoconhecimento"
     }
 ]
