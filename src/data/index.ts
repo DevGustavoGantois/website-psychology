@@ -2,7 +2,7 @@ export const HomeHeroData = [
     {
         pretitle: "Psicóloga Mônica Aran",
         title: "Dê o primeiro passo para o seu bem-estar emocional. Agende sua sessão agora!",
-        description: "Se está buscando melhorar sua saúde mental, lidar com desafios emocionais ou encontrar mais clareza em suas escolhas, eu estou aqui para ajudar. Vamos juntos trabalhar o seu autoconhecimento e promover mudanças positivas em sua vida. Agende sua consulta agora e dê o primeiro passo para uma jornada de transformação e bem-estar!",
+        description: "Se está buscando melhorar sua saúde mental, lidar com desafios emocionais ou encontrar mais clareza em suas escolhas, eu estou aqui para ajudar. Vamos juntos trabalhar o seu autoconhecimento e promover mudanças positivas em sua vida. Agende sua sessão agora e dê o primeiro passo para uma jornada de transformação e bem-estar!",
     },
 ]
 
