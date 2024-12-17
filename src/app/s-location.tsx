@@ -38,7 +38,7 @@ export function HomeLocation() {
               <div className="relative group w-full lg:w-auto overflow-hidden">
                 <Image
                   src="/Location2.svg"
-                  width={500}
+                  width={505}
                   height={200}
                   quality={100}
                   alt="Localização 2"

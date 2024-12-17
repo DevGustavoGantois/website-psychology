@@ -71,7 +71,7 @@ export function NavbarMobile() {
   </Link>
             </span>
             <Link href="https://wa.me/+557196329047?text=Ol%C3%A1%20M%C3%B4nica%2C%20queria%20agendar%20uma%20consulta%2C%20qual%20a%20sua%20disponibilidade%20de%20hor%C3%A1rios%20e%20dias%3F" target="_blank" className="mt-10">
-            <Button className="p-5" variant="secondary">Agende a sua consulta</Button>
+            <Button className="p-5" variant="secondary">Agende a sua sessão</Button>
             </Link>
             </span>
                 </SheetDescription>
