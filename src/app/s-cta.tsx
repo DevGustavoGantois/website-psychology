@@ -12,7 +12,7 @@ export function CTASection() {
           {HomeCTAData.map((item, index) => (
             <div key={index} className="flex flex-col gap-4">
               <h1 className="text-white font-light text-3xl lg:text-5xl mb-4" data-aos="fade-up">
-                Me siga nas redes sociais e venha se reconectar <br /> com você mesmo(a)!
+                Me siga nas redes sociais e venha <br /> se reconectar com você mesmo(a)!
               </h1>
               <p className="text-white text-base lg:text-xl max-w-[600px]" data-aos="fade-up" data-aos-delay="200">
                 {item.description}
