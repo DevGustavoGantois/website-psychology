@@ -22,7 +22,10 @@ export default function Page() {
   }, [])
 
   return (
-    <>
+    <main>
+      <div>
+      <meta name="google-site-verification" content="o2JJ1DRujT5xKDGKCVAO7MQfcluQmJ8zDDf7L80pO5o" />
+      </div>
       <HomeHero />
       <HomeHistory />
       <HomeAbout />
@@ -33,6 +36,6 @@ export default function Page() {
       <HomeLocation />
       <HomeContact />
       <Footer />
-    </>
+    </main>
   );
 }

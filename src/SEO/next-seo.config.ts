@@ -6,13 +6,13 @@ export const metadata: Metadata = {
     'O Consultório de Psicologia Clínica Mônica Aran oferece uma abordagem terapêutica especializada em gestalt-terapia para crianças, adolescentes e adultos. Agende sua consulta e inicie seu processo de autoconhecimento.',
   openGraph: {
     type: 'website',
-    url: 'https://website-monica-aran.vercel.app/',
+    url: 'https://www.psimonicaaran.com.br/',
     title: 'Consultório de Psicologia Clínica Mônica Aran',
     description:
       'O Consultório de Psicologia Clínica Mônica Aran oferece uma abordagem terapêutica especializada em gestalt-terapia, com atendimento a crianças, adolescentes e adultos. Entre em contato para saber mais sobre nossos serviços.',
     images: [
       {
-        url: 'https://website-monica-aran.vercel.app/Logo.svg',
+        url: 'https://www.psimonicaaran.com.br/Logo.svg',
         width: 1200,
         height: 630,
         alt: 'Logo Consultório de Psicologia Clínica Mônica Aran',
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     title: 'Consultório de Psicologia Clínica Mônica Aran',
     description:
       'O Consultório de Psicologia Clínica Mônica Aran oferece atendimento terapêutico especializado para crianças, adolescentes e adultos, com foco na gestalt-terapia. Agende sua consulta agora.',
-    images: ['https://website-monica-aran.vercel.app/Logo.svg'],
+    images: ['https://www.psimonicaaran.com.br/Logo.svg'],
   },
   robots: {
     index: true,
